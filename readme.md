@@ -6,6 +6,8 @@ Creare l’array di oggetti con le informazioni fornite (file informazioni team)
 FINE
 
 MILESTONE 1: Stampare su console, per ogni membro del team, le informazioni di nome, ruolo e la stringa della foto
+    SOLUZIONE: stampiamo in console tutte le informazioni di ogni singolo membro del team tramite il ciclo for con al suo intero il console.log della key
+FINE
 
 
 MILESTONE 2:
